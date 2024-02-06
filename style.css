@@ -1,0 +1,25 @@
+body {
+      margin: 0;
+      overflow: hidden;
+      position: relative;
+      background-color: black;
+    }
+
+    canvas {
+      display: block;
+    }
+
+    .centered-text {
+      width: 100%;
+      max-width: 100vw;
+      position: absolute;
+      display: inline-block;
+      top: 44%;
+      left: 50% !important;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-size: 0.7rem;
+      font-family: monospace;
+      text-align: center;
+      z-index: -777;
+    }
