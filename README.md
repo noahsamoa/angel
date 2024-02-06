@@ -2,10 +2,6 @@
 
 This repository contains code for creating a visually stunning and interactive representation of a biblically accurate angel using Three.js. The angel is composed of various elements, including rings, eyes, and text, each with different materials and animations.
 
-## Preview
-
-[DEMO LINK](https://library.mcnac.xyz/components/angel/)
-
 ## Features
 
 - **Interactive Animation**: The angel's wings and rings rotate, and the eyes wobble up and down.
