@@ -4,7 +4,7 @@ This repository contains code for creating a visually stunning and interactive r
 
 ## Preview
 
-![Biblically Accurate Angel Animation](preview.gif)
+[DEMO LINK](https://library.mcnac.xyz/components/angel/)
 
 ## Features
 
