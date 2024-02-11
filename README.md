@@ -1,15 +1,15 @@
-# Biblically Accurate Angel Animation
+# Ophanim Animation
 
 This repository contains code for creating a visually stunning and interactive representation of a biblically accurate angel using Three.js. The angel is composed of various elements, including rings, eyes, and text, each with different materials and animations.
 
 ## Features
 
-- **Interactive Animation**: The angel's wings and rings rotate, and the eyes wobble up and down.
+- **Interactive Animation**: The angel's wings and rings rotate, and the eye wobbles up and down.
 - **Custom Text Rendering**: Monospace text is rendered behind the angel, allowing for customization.
 
 ## Usage
 
-To view the angel animation, simply open the `index.html` file in a web browser that supports WebGL. You can also host the files on a web server for online access.
+To view the angel animation, simply open the `index.html` file in a web browser that supports WebGL.
 
 ## Credits
 
