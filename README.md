@@ -1,6 +1,6 @@
 # Ophanim Animation
 
-This repository contains code for creating a visually stunning and interactive representation of a biblically accurate angel using Three.js. The angel is composed of various elements, including rings, eyes, and text, each with different materials and animations.
+This repository contains code for creating a visually stunning representation of a biblically accurate angel using Three.js. The angel is composed of various elements, including rings, eyes, and text, each with different materials and animations.
 
 ## Features
 
